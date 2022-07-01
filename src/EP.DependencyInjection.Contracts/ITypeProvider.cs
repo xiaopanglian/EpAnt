@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace EP.DependencyInjection.Contracts
+namespace EpAnt.DependencyInjection.Contracts
 {
     public interface ITypeProvider
     {

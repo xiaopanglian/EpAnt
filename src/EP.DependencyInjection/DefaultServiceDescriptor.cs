@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace EP.DependencyInjection
+namespace EpAnt.DependencyInjection
 {
     public class DefaultServiceDescriptor : Contracts.IServiceDescriptor
     {

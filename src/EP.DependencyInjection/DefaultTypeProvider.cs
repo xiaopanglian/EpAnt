@@ -1,7 +1,7 @@
-﻿using EP.DependencyInjection.Contracts;
+﻿using EpAnt.DependencyInjection.Contracts;
 using System.Reflection;
 
-namespace EP.DependencyInjection
+namespace EpAnt.DependencyInjection
 {
     public class DefaultTypeProvider : ITypeProvider
     {

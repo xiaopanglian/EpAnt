@@ -1,4 +1,4 @@
-namespace EP.Tests.DependencyInjection
+namespace EpAnt.Tests.DependencyInjection
 {
     public class UnitTest1
     {

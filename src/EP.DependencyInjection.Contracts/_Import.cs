@@ -1,2 +1,2 @@
-﻿global using EP.DependencyInjection;
-global using EP.DependencyInjection.Contracts;
+﻿global using EpAnt.DependencyInjection;
+global using EpAnt.DependencyInjection.Contracts;
