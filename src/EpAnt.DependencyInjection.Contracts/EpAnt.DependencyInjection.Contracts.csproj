@@ -4,6 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	  <Authors>XiaoPangLian</Authors>
+	  <AssemblyVersion>0.0.1.0</AssemblyVersion>
+	  <Version>0.0.1-beta</Version>
+	  <PackageId>EpAnt.DependencyInjection.Contracts</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

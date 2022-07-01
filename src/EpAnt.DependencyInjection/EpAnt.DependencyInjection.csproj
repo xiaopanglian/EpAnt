@@ -5,8 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Authors>XiaoPangLian</Authors>
-    <AssemblyVersion>0.0.1.0</AssemblyVersion>
-    <Version>0.0.1-beta</Version>
+    <Version>0.0.2-beta</Version>
     <PackageId>EpAnt.DependencyInjection</PackageId>
   </PropertyGroup>
 
