@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{487F3068
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.Tests.DependencyInjection", "tests\EP.Tests.DependencyInjection\EP.Tests.DependencyInjection.csproj", "{C4BC3C91-6F21-4FCD-9065-1BC388711C95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP.DependencyInjection.Contracts", "src\EP.DependencyInjection.Contracts\EP.DependencyInjection.Contracts.csproj", "{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{C4BC3C91-6F21-4FCD-9065-1BC388711C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4BC3C91-6F21-4FCD-9065-1BC388711C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4BC3C91-6F21-4FCD-9065-1BC388711C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0E93973E-3BE5-43B8-949A-7246288399E0} = {B471F6F0-75B8-4916-8F4A-FAC2214EA749}
 		{C4BC3C91-6F21-4FCD-9065-1BC388711C95} = {487F3068-C8EC-4886-892A-D5BFF1AE0D12}
+		{F2055E9F-3DC7-448F-88FC-DBBC56EB59C2} = {B471F6F0-75B8-4916-8F4A-FAC2214EA749}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77DFE02A-0738-4A26-A6BA-D184E09DB862}
