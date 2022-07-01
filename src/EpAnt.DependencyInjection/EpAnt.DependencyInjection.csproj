@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EP.DependencyInjection.Contracts\EpAnt.DependencyInjection.Contracts.csproj" />
+    <ProjectReference Include="..\EpAnt.DependencyInjection.Contracts\EpAnt.DependencyInjection.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
